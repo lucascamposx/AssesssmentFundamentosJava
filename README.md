@@ -1,3 +1,7 @@
+# Assessment - Fundamentos de Desenvolvimento com Java  
+
+Este documento contém uma série de exercícios práticos para reforçar conceitos fundamentais e avançados da linguagem Java. Cada exercício aborda cenários reais que simulam desafios comuns enfrentados por desenvolvedores no mercado de trabalho. Complete cada exercício seguindo os enunciados e entregue as evidências solicitadas para validação do aprendizado. 
+
 # Parte 1 - Configuração do Ambiente de Desenvolvimento
 
 ## Exercício 1: Instalando e configurando o ambiente Java
