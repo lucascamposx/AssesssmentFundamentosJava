@@ -1,0 +1,3 @@
+Produto: Sabao | Quantidade: 3 | Preço: R$ 1,50
+Produto: Feijao | Quantidade: 2 | Preço: R$ 3,50
+Produto: Biscoito | Quantidade: 2 | Preço: R$ 1,90
